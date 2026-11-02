@@ -1,0 +1,45 @@
+Class_id,Tabela_adı
+0,Hız sınırı (20 km/s)
+1,Hız sınırı (30 km/s)
+2,Hız sınırı (50 km/s)
+3,Hız sınırı (60 km/s)
+4,Hız sınırı (70 km/s)
+5,Hız sınırı (80 km/s)
+6,Hız sınırı sonu (80 km/s)
+7,Hız sınırı (100 km/s)
+8,Hız sınırı (120 km/s)
+9,Öndeki aracı geçmek yasaktır (Sollama yasak)
+10,3.5 tondan ağır araçlar için öndeki aracı geçmek yasaktır
+11,Kavşakta geçiş hakkı
+12,Ana yol
+13,Yol ver
+14,Dur (STOP)
+15,Taşıt trafiğine kapalı yol
+16,3.5 tondan ağır taşıtlar giremez
+17,Girişi olmayan yol (Ters yön)
+18,Genel tehlike uyarısı (Dikkat)
+19,Sola tehlikeli viraj
+20,Sağa tehlikeli viraj
+21,Sola devam eden tehlikeli virajlar
+22,Kasisli / Engebeli yol
+23,Kaygan yol
+24,Sağdan daralan yol (Yol daralması)
+25,Yolda çalışma var
+26,Işıklı işaret cihazı (Trafik lambaları)
+27,Yaya geçidi
+28,Okul geçidi (Çocuklar geçebilir)
+29,Bisiklet geçebilir
+30,Gizli buzlanma / Kar tehlikesi
+31,Vahşi hayvan geçebilir
+32,Tüm hız ve sollama yasaklarının sonu
+33,İleriden sağa mecburi yön
+34,İleriden sola mecburi yön
+35,Sadece ileri mecburi yön
+36,İleri veya sağa mecburi yön
+37,İleri veya sola mecburi yön
+38,Sağdan gidiniz
+39,Soldan gidiniz
+40,Ada etrafında dönünüz (Döner kavşak)
+41,Sollama yasağı sonu
+42,3.5 tondan ağır araçlar için sollama yasağı sonu
+,
